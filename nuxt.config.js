@@ -51,4 +51,6 @@ export default {
   build: {},
 
   srcDir: './src',
+
+  storybook: {},
 }
